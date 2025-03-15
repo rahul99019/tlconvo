@@ -1,0 +1,6 @@
+amir83
+# User ID : Key mapping
+# Format: user_id:key
+5441713284:amir83
+6727382219:amir64
+6727382219:amir64
