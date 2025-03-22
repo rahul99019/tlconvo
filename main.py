@@ -14,7 +14,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from collections import defaultdict
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = '7921451194:AAGGAZrp2gtyUuv_KNZCmF3pFa10AEUU3Hc'
+TELEGRAM_BOT_TOKEN = '7618021077:AAFFbJ7d6bfPA3jqCtJUk6Xqe3KaZTiHnVo'
 
 # Dictionary to track active SMS sending tasks for each user
 active_tasks = {}
